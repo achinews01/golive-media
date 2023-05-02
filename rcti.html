@@ -1,0 +1,73 @@
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/shaka-player.ui.min.js' crossorigin='anonymous'>
+    </script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.3/controls.min.css"> 
+     <style type="text/css">*{margin:0;padding:0;outline:none;}#containers{position:absolute;width:100%!important;height:100%!important;}*:focus{outline:none;}</style> 
+     
+  <!-- Mau Maling ya --> 
+  
+  <div class="internet-connection-status" id="internetStatus"></div> 
+  <div style="clear:both;"></div> 
+   <video autoplay="" data-shaka-player="" id="video" poster="https://img.freepik.com/free-vector/gradient-hexagonal-background_23-2148947773.jpg?size=626&ext=jpg&ga=GA1.2.1755051391.1678556115&semt=robertav1_2_sidr" style="width:100%;height:100%" class="shaka-video"></video>   
+      <div class="shaka-range-container shaka-volume-bar-container" style="background: linear-gradient(to right, rgb(255, 255, 255) 100%, rgba(255, 255, 255, 0.54) 100%, rgba(255, 255, 255, 0.54) 100%);"></div>
+      <div class="shaka-range-container shaka-seek-bar-container" style="background: rgba(255, 255, 255, 0.3);">
+          <script>
+        const manifestUri =
+            'https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd';
+            async function init() {
+            const video = document.getElementById('video');
+            const ui = video['ui'];
+            const controls = ui.getControls();
+            const player = controls.getPlayer();
+            const config = {
+                'controlPanelElements': ['play_pause',
+                    'mute', 'volume','spacer', 'quality', 'fullscreen'
+                ]
+            }
+ 
+ player.configure({
+                    drm: {
+                        clearKeys: {
+   // 'key-id-in-hex': 'key-in-hex',
+                  '9ba3e153ef8956d6e2b0684fcf74f58f': 'edef8ba979d64acea3c827dcd51d21ed',
+                        }
+                    }
+                });
+        
+         
+            ui.configure(config);
+
+            window.player = player;
+            window.ui = ui;
+
+            player.addEventListener('error', onPlayerErrorEvent);
+            controls.addEventListener('error', onUIErrorEvent);
+
+            try {
+                await player.load(manifestUri);
+                console.log('The video has now been loaded!');
+            } catch (error) {
+                onPlayerError(error);
+            }
+        }
+
+        function onPlayerErrorEvent(errorEvent) {
+            onPlayerError(event.detail);
+        }
+
+        function onPlayerError(error) {
+            console.error('Error code', error.code, 'object', error);
+        }
+
+        function onUIErrorEvent(errorEvent) {
+            onPlayerError(event.detail);
+        }
+
+        function initFailed(errorEvent) {
+            console.error('Unable to load the UI library!');
+        }
+        document.addEventListener('shaka-ui-loaded', init);
+        document.addEventListener('shaka-ui-load-failed', initFailed);
+
+    </script>
+
