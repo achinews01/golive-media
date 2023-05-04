@@ -337,21 +337,6 @@ https://cdn09jtedge.indihometv.com/atemedvr/1679549905/0/CITRADANGDUT_AT/CITRADA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://Bein1BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein 1 Vidio
-https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://Bein3BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1CieQ" group-title="1.LOKAL", Bein 3 Vidio
-https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://PltvBANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1CXeC" group-title="1.LOKAL", Premiere League TV
-https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-ID="championstv1" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #http://103.167.167.5:8111/play/a01p/index.m3u8
@@ -359,11 +344,6 @@ https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808
 #EXTINF:-1 tvg-ID="championstv2" tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL",Champions 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #http://103.167.167.5:8111/play/a01q/index.m3u8
-
-#EXTINF:-1 tvg-id="706" tvg-name="HITS" group-title="Astrok@Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" ch-number="706",706 Hits (MY) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CXOn", Spotv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
