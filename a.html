@@ -1,3 +1,17 @@
+<center><html>
+<style type="text/css">
+a {
+text-decoration:none;
+color:Red;
+display:block;
+font-size:30px;
+}
+
+</style>
+<head>
+<title></title>
+</head>
+<body bgcolor="#000000"><body text="white">
 <script src='https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.1.1/shaka-player.ui.min.js' crossorigin='anonymous'>
     </script>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.3/controls.min.css"> 
@@ -67,6 +81,82 @@
         }
         document.addEventListener('shaka-ui-loaded', init);
         document.addEventListener('shaka-ui-load-failed', initFailed);
-
     </script>
+<script>
+                    document.write(new Date().getFullYear() + " &copy; <span class='logoText'>Golive Medis</span> All Rights Reserved");
+                </script>            
+        </footer>
+        <script>
+var player = document.getElementById('playlist');
+            $(document).ready(function () {
+                        	fetch('https://corsanywhere.herokuapp.com/https://automobilevintagespa.000webhostapp.com/apiforlink.php?token=0wartj9d7xvm90sor1o5')
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    console.log(data.message);
+    document.querySelector('marquee').innerHTML = data.message;
+  });
+                setTimeout(() => {
+                    $("#loader").css("display", "none");
+                }, 1000);
+                            //$("#playerContainer").html('<video id="player" playsinline controls data-poster=""><source src="" type="video/mp4" /></video>');
+                var channelButtons = $("[channel]");
+                var i;
+                for (i = 0; i < channelButtons.length; i++) {
+                    channelButtons[i].onclick = function (e) {
+                        var slug = e.currentTarget.getAttribute("channel");
+                                 rmp.setControls(true);
+                                  var src = {
+                                mp4: [slug],
+                            };
+                            //console.log(src);
+                            rmp.setSrc(src);
+                            rmp.play();
+                        };
+                    };
+                                /*RMP Player Initialization*/
+              var src = {
+                        mp4: "https://d2zihajmogu5jn.cloudfront.net/tears-of-steel/playlist.m3u8",
+                    },
+                    settings = {
+                        licenseKey: atob("ZVdabVoyZDJZM0JyZEVBeE5UTXdOakEy"),
+                        autoHeightMode: true,
+                        pip: true,
+                        detectAutoplayCapabilities: true,
+                        autoplay: false,
+                        mutedAutoplayOnMobile: false,
+                        mutedAutoplayOnMacosSafari11Plus: false,
+                        srcChangeAutoplay: true,
+                        skin: "s3",
+                        skinBackgroundColor: "rgba(0, 0, 0, 0.7)",
+                        skinButtonColor: "FFFFFF",
+                        skinAccentColor: "FC801C",
+                        quickRewind: 10,
+                        quickForward: 10,
+                        hideControls: true,
+                        preload: false,
+                        crossorigin: true,
+                        ads:true,
+                        adParser:'rmp-vast',
+                        adTagUrl: 'false',
+                        sharing: false,
+                        contentMetadata: {
+                            artwork: [{ src: "", sizes: "1280x720", type: "image/jpg" }],
+                            poster: [""],
+                            endOfVideoPoster: [""],
+                            thumbnail: "",
+                        },
+                        src: src,
+                    },
+                    elementID = "playerContainer",
+                    rmp = new RadiantMP(elementID),
+                    rmpContainer = document.getElementById(elementID);
 
+                rmp.setLoop(true);
+                rmp.init(settings);
+                /*RMP Player initialized*/
+                            });
+        </script>
+    </body>
+</html>
