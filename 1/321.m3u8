@@ -124,7 +124,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://s.id/1Ch1s" group-title="1.LOKAL",MNCTV
-#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E", Rcti HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -360,40 +360,10 @@ https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #http://103.167.167.5:8111/play/a01q/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://Ctv1.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 1 Vidio
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://CTv2BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 2 Vidio
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://CTv3BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 3 Vidio
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://CTv5BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 5 Vidio
-https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://CTv6BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions 6 Vidio
-https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://CTvwc1BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions cup 1 Vidio
-https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://CTvwc2BANGJAXIPTV.chello-mozamoza.repl.co
-#EXTINF:-1 tvg-logo="https://s.id/1Ci7c" group-title="1.LOKAL", Champions cup 2 Vidio
-https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="706" tvg-name="HITS" group-title="Astrok@Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" ch-number="706",706 Hits (MY) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CXOn", Spotv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
