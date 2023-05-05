@@ -107,7 +107,7 @@ https://astrompd.thescript2.workers.dev/dash-wv/linear/2408/default_primary.mpd
 #EXTINF:-1 tvg-id="aec.id" tvg-name="aec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="0.MALAYSIA",ASTRO AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=601
-https://astrompd.thescript2.workers.dev/dash-wv/linear/601/default_primary.mpd
+https://astrompd2.thescript2.workers.dev/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="boo.id" tvg-name="boo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHC31tMS04z7R1CMbiWoS5d5YndREHrTRL3A&usqp=CAU" group-title="0.MALAYSIA",ASTRO BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -118,6 +118,51 @@ https://astrompd.thescript2.workers.dev/dash-wv/linear/2407/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="116" tvg-id="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png",ASTRO SENSASI
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#EXTINF:-1 tvg-id="aod.id" tvg-name="aod" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="0.MALAYSIA",ASTRO AOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2706
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2706/default_primary.mpd
+
+#EXTINF:-1 tvg-id="aod.id" tvg-name="aod" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="0.MALAYSIA",ASTRO AOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2706
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2706/default_primary.mpd
+
+#EXTINF:-1 tvg-id="aod.id" tvg-name="aod" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="0.MALAYSIA",ASTRO AOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=700
+https://astrompd.thescript2.workers.dev/dash-wv/linear/700/default_primary.mpd
+
+#EXTINF:-1 tvg-id="aod.id" tvg-name="aod" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="0.MALAYSIA",ASTRO AOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=212
+https://astrompd.thescript2.workers.dev/dash-wv/linear/212/default_primary.mpd
+
+#EXTINF:-1 tvg-id="aod.id" tvg-name="aod" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="0.MALAYSIA",ASTRO AOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=307
+https://astrompd.thescript2.workers.dev/dash-wv/linear/307/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Shuang Xing.id" tvg-name="Shuang Xing" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcOMyT2XslpdE6gY-yE6Zs8PXnPsM9tGs-Q&usqp=CAU" group-title="0.MALAYSIA",ASTRO Shuang Xing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2403
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2403/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Quan Jia.id" tvg-name="Quan Jia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" group-title="0.MALAYSIA",ASTRO Quan Jia 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2507
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2507/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Hua Hee Dai.id" tvg-name="Hua Hee Dai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9teZHebGjJ-qW3RNb6mh7Zcmg8ikmOOG6g&usqp=CAU" group-title="0.MALAYSIA",ASTRO Hua Hee Dai 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2308
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2308/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmaEHcNBU7IMEu3dHLwtKyziGWh39uNOwizA&usqp=CAU" group-title="0.MALAYSIA",ASTRO Xiao Tai Yang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2711
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2711/default_primary.mpd
 
 =====1.LOKAL=====
 
