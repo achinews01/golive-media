@@ -77,18 +77,27 @@ https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.
 #EXTINF:-1 tvg-id="Awesome.id" tvg-name="AWESOME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsjypgTapGDQ-wBjwv6cwZadUgSgrwKZlNQ&usqp=CAU" group-title="0.MALAYSIA",AWESOME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=211
-https://astrompd2.thescript2.workers.dev/dash-wv/linear/211/default_primary.mpd
+https://astrompd.thescript2.workers.dev/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ASTRO PRIMA.id" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA",ASTRO PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=1000
 https://astrompd2.thescript2.workers.dev/dash-wv/linear/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-id="oasis.id" tvg-name="oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="0.MALAYSIA",OASIS
+#EXTINF:-1 tvg-id="oasis.id" tvg-name="oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="0.MALAYSIA",ASTRO OASIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2505
-https://astrompd2.thescript2.workers.dev/dash-wv/linear/2505/default_primary.mpd
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2505/default_primary.mpd
 
+#EXTINF:-1 tvg-id="aura.id" tvg-name="aura" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sd0gSYdwf1cvXb7JBGwg7W9Wl0m0AhRv4w&usqp=CAU" group-title="0.MALAYSIA",ASTRO AURA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=609
+https://astrompd.thescript2.workers.dev/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:-1 tvg-id="rania.id" tvg-name="rania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="0.MALAYSIA",ASTRO RANIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=608
+https://astrompd.thescript2.workers.dev/dash-wv/linear/608/default_primary.mpd
 
 =====1.LOKAL=====
 
