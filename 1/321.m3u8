@@ -225,12 +225,10 @@ http://kuchini.site:8080/Gamsgo677/72712fbe/287793
 #EXTINF:-1 group-title="0.MALAYSIA" tvg-id="AstroRia" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ASTRO RIA
 http://starshare.live:8080/live/Bradley/Bradley/143034.ts
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/sooker/arenabola
-#EXTINF:-1 group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" tvg-id="AstroArenaBola4" group-title="0.MALAYSIA" tvg-logo="https://telegra.ph/file/25b325b3bca1ac40f9191.png", Astro Arena Bola 1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5098/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://s.id/1CiPU", Dunia Sinema HD
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/sooker/asbola2
@@ -2715,17 +2713,3 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title="8.SPORTS",V!X La Liga 4
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
-
-======9.LIGA BRI======
-
-#EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-http://golive.yn.lt/live/bola/11.m3u8
-
-#EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://sporttv.wapka.co/kbtvligabri1.m3u8
-
-#EXTINF:-1 group-title="9.LIGA BRI" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://media0.giphy.com/media/wvP4x67EnIhWiCztAf/giphy.gif?cid=6c09b952fee460da68a0ea72fc0d79c2ae2ce08915bd9dfc&rid=giphy.gif&ct=s",LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://sporttv.wapka.co/kbtvligabri2.m3u8
