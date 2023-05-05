@@ -83,25 +83,12 @@ https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.
 
 =====1.LOKAL=====
 
-#EXTM3U
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch0o", Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-#https://thomasxyurendav2.herokuapp.com/index.m3u8?id=205
-http://tvnid.x10.mx/1/master.m3u8
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://s.id/1Ch0o" group-title="1.LOKAL",Indosiar 1
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:-1 tvg-ID="indosiar" tvg-logo="https://s.id/1Ch0o" group-title="1.LOKAL", Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgYZ", Sctv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#https://thomasxyurendav2.herokuapp.com/index.m3u8?id=204
-http://tvnid.x10.mx/1/master-1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -124,7 +111,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://s.id/1Ch1s" group-title="1.LOKAL",MNCTV
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Ch1E", Rcti HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
