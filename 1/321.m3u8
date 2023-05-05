@@ -230,22 +230,20 @@ http://starshare.live:8080/live/Bradley/Bradley/143034.ts
 #EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://s.id/1CiPU", Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/sooker/asbola2
-#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="0.MALAYSIA",ASTRO ARENA BOLA 2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSXhZbVJsWlRNdE9XWXdPUzAwTXpkakxXRm1ZMlF0WmpZM05HWXhaR05rWVRFMiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjE1OTQxMSwiaWF0IjoxNjgxNTU1NDExfQ.OhP9eA9X0XeOz9b5fYefW8J5qJP6txP9Y3PccdsB9PA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+#EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFdKxekGkn8ZbrRLtlk-8PNrb_gJpJgvylIg&usqp=CAU",SIAR
+https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/sooker/ball3
-#EXTINF:-1 tvg-id="807" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb681237-c2ba-4911-855b-41784c9909c4/dfqf9o0-a0d0b8a6-1c76-4fee-ad84-95683a382cd1.png/v1/fill/w_1224,h_629,strp/astro_arena_bola_3_logo__2023__by_officiallogotv_dfqf9o0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI5IiwicGF0aCI6IlwvZlwvZWI2ODEyMzctYzJiYS00OTExLTg1NWItNDE3ODRjOTkwOWM0XC9kZnFmOW8wLWEwZDBiOGE2LTFjNzYtNGZlZS1hZDg0LTk1NjgzYTM4MmNkMS5wbmciLCJ3aWR0aCI6Ijw9MTIyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.diaXHG-QrIlFeAxdhmls5Bjwqh-cv3xlTqCRuYDhCVM" group-title="0.MALAYSIA",ASTRO ARENA BOLA3
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSXhZbVJsWlRNdE9XWXdPUzAwTXpkakxXRm1ZMlF0WmpZM05HWXhaR05rWVRFMiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjE1OTQxMSwiaWF0IjoxNjgxNTU1NDExfQ.OhP9eA9X0XeOz9b5fYefW8J5qJP6txP9Y3PccdsB9PA
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/sooker/as4
-#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/poster/AstroArenaBola04_IVP_LAND_171x96.jpg" tvg-id="AstroArenaBola4" group-title="0.MALAYSIA" tvg-logo="https://telegra.ph/file/25b325b3bca1ac40f9191.png", Astro Arena Bola 4
-https://linear07-playback.sooka.my/CH3/masterCH3.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",DEGUP
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 =====1.LOKAL=====
 
