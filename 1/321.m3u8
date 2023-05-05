@@ -477,7 +477,7 @@ http://rr.dens.tv/h/h91/index2.m3u8
 
 #EXTINF:-1 tvg-ID="mentari" tvg-logo="https://s.id/1Cies" group-title="1.LOKAL", Mentari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://yurendtv.herokuapp.com/hls.m3u8?id=8237
+#https://yurendtv.herokuapp.com/hls.m3u8?id=8237
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Cih1", Citra Dangdut
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -544,6 +544,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-id="FoxMovies.Romania" group-title="1.LOKAL",Fox Movies Romania 
+https://epg.pw/stream/81ce5436bfe76b3619040287b569c0b0d75f206c43fb19293e8c4d9d61fb55ec.ctv
+
+#EXTINF:-1 tvg-id="FoxActionMovies" group-title="1.LOKAL",Fox Action Movies 
+https://epg.pw/stream/501bb85ee569c707e964d6d7e2316d6a68f6e7cbabcc233515c0555a3cff106d.ctv
+
+#EXTINF:-1 tvg-id="AMC" group-title="1.LOKAL",AMC
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="A&E" group-title="1.LOKAL",A&E 
+http://173.225.246.25:8889/udp/239.203.20.1:4001
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2tDvSOk4vkzF9T3YIE8a7uC4wHlgfgRS5g&usqp=CAU", Rapammi Apung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
