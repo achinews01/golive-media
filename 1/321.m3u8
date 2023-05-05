@@ -74,12 +74,21 @@ https://webudit.salamus1.lol/lb/premium43/index.m3u8?|referer=https://widevine.l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKG", Astro Arena
-#http://tv1.yurend.net:25461/yurendtv/yurendtv@@/4
-#https://achitho12.github.io/labacir01/hls/error_golive.m3u8
+#EXTINF:-1 tvg-id="Awesome.id" tvg-name="AWESOME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsjypgTapGDQ-wBjwv6cwZadUgSgrwKZlNQ&usqp=CAU" group-title="0.MALAYSIA",AWESOME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=211
+https://astrompd2.thescript2.workers.dev/dash-wv/linear/211/default_primary.mpd
 
-#EXTINF:-1 group-title="0.MALAYSIA" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://s.id/1CiKf", Upin & Ipin
-#http://tv1.yurend.net:25461/live/omandi/omandiyurend@12/192.m3u8
+#EXTINF:-1 tvg-id="ASTRO PRIMA.id" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="0.MALAYSIA",ASTRO PRIMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=1000
+https://astrompd2.thescript2.workers.dev/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-id="oasis.id" tvg-name="oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="0.MALAYSIA",OASIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2505
+https://astrompd2.thescript2.workers.dev/dash-wv/linear/2505/default_primary.mpd
+
 
 =====1.LOKAL=====
 
