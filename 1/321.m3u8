@@ -230,10 +230,8 @@ http://starshare.live:8080/live/Bradley/Bradley/143034.ts
 #EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://s.id/1CiPU", Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
-#EXTINF:-1 group-title="0.MALAYSIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFdKxekGkn8ZbrRLtlk-8PNrb_gJpJgvylIg&usqp=CAU",SIAR
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+#EXTINF:-1 tvg-name="Astro Awani HD" group-title="0.MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png", Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
