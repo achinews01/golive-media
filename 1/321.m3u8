@@ -139,20 +139,20 @@ https://astrompd.thescript2.workers.dev/dash-wv/linear/700/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=212
 https://astrompd.thescript2.workers.dev/dash-wv/linear/212/default_primary.mpd
 
-#EXTINF:-1 tvg-id="aod.id" tvg-name="aod" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png" group-title="0.MALAYSIA",ASTRO AOD
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="hbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRls9yWpUzUQ9yepNC28hhLvifuW_hF7I9TCQ&usqp=CAU" group-title="0.MALAYSIA",ASTRO HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=307
-https://astrompd.thescript2.workers.dev/dash-wv/linear/307/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2304
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2304/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Shuang Xing.id" tvg-name="Shuang Xing" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcOMyT2XslpdE6gY-yE6Zs8PXnPsM9tGs-Q&usqp=CAU" group-title="0.MALAYSIA",ASTRO Shuang Xing
+#EXTINF:-1 tvg-id="hbo family.id" tvg-name="hbo family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9KpYf0F82TabUzNt5nWa0OZDSxzC4-LHo7w&usqp=CAU" group-title="0.MALAYSIA",ASTRO HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2403
-https://astrompd.thescript2.workers.dev/dash-wv/linear/2403/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5053
+https://astrompd.thescript2.workers.dev/dash-wv/linear/5053/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Quan Jia.id" tvg-name="Quan Jia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" group-title="0.MALAYSIA",ASTRO Quan Jia 
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name=cinemax" tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="0.MALAYSIA",ASTRO CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2507
-https://astrompd.thescript2.workers.dev/dash-wv/linear/2507/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=603
+https://astrompd.thescript2.workers.dev/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Hua Hee Dai.id" tvg-name="Hua Hee Dai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9teZHebGjJ-qW3RNb6mh7Zcmg8ikmOOG6g&usqp=CAU" group-title="0.MALAYSIA",ASTRO Hua Hee Dai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -163,6 +163,18 @@ https://astrompd.thescript2.workers.dev/dash-wv/linear/2308/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2711
 https://astrompd.thescript2.workers.dev/dash-wv/linear/2711/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9HADx58LwlEOZiVEXdOjszzt4uaRTqjGMg&usqp=CAU" group-title="0.MALAYSIA",ASTRO HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5055
+https://astrompd.thescript2.workers.dev/dash-wv/linear/5055/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSznP9CmzRI8nBtvEXDuLVoQFdq-zDfjtjH6Q&usqp=CAU" group-title="0.MALAYSIA",ASTRO SHOW CASE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5054
+https://astrompd.thescript2.workers.dev/dash-wv/linear/5054/default_primary.mpd
+
+
 
 =====1.LOKAL=====
 
