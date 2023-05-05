@@ -174,6 +174,35 @@ https://astrompd.thescript2.workers.dev/dash-wv/linear/5055/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5054
 https://astrompd.thescript2.workers.dev/dash-wv/linear/5054/default_primary.mpd
 
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hLcwwSh1bLlwHKbfqNtQACct3otEIC4xjQ&usqp=CAU" group-title="0.MALAYSIA",ASTRO BEIN SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=408
+https://astrompd.thescript2.workers.dev/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSap9siTUE3S8EPYkcW-5L8rX90337K2Kpnew&usqp=CAU" group-title="0.MALAYSIA",ASTRO BEIN SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5066
+https://astrompd.thescript2.workers.dev/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0ydfGWofIO9h28pQ3B7fbwFa2zEQVYz_lQ&usqp=CAU" group-title="0.MALAYSIA",ASTRO BEIN SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2705
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdclb0ooQhY1DbReCweuaWcb2ZWSLleOirQ&usqp=CAU" group-title="0.MALAYSIA",ASTRO SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5058
+https://astrompd.thescript2.workers.dev/dash-wv/linear/5058/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJmE4TXFel6wr5fp7Eyrnnbn-jKNDQRjPsw&usqp=CAU" group-title="0.MALAYSIA",ASTRO SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=5079
+https://astrompd.thescript2.workers.dev/dash-wv/linear/5079/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Xiao Tai Yang.id" tvg-name="Xiao Tai Yang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnXyO2ovFdTHCsdSBGfHfv_v2aNo8ysPFQw&usqp=CAU" group-title="0.MALAYSIA",ASTRO WWE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=2603
+https://astrompd.thescript2.workers.dev/dash-wv/linear/2603/default_primary.mpd
 
 
 =====1.LOKAL=====
