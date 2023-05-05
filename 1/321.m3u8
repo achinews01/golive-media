@@ -475,13 +475,8 @@ http://rr.dens.tv/h/h91/index2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #https://yurendtv.herokuapp.com/hls.m3u8?id=8237
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Cih1", Citra Dangdut
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.useetv.com
-#EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
-https://cdn09jtedge.indihometv.com/atemedvr/1679549905/0/CITRADANGDUT_AT/CITRADANGDUT_AT.mpd?dvr?stime=1679553505&etime=1679553505&encoded=08f5a36901ec02eb54b42|referer=https://www.useetv.com
+#EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://s.id/1Cih1" group-title="1.LOKAL",Citra Dangdut
+http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Dr5I", Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
