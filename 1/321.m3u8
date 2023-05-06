@@ -2768,272 +2768,271 @@ https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
 ============TV DUNIA============
 
-
-#EXTINF:-1 tvg-id="AndongMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Andong [Not 24/7] (Korea) 
+#EXTINF:-1 tvg-id="AndongMBCTV.kr" status="online" group-title="9.WORLD",MBC Andong [Not 24/7] (Korea) 
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr" status="online" group-title="14. TV DUNIA/WORLD",Arirang (Korea)
+#EXTINF:-1 tvg-id="ArirangTV.kr" status="online" group-title="9.WORLD",Arirang (Korea)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.kr" status="online" group-title="14. TV DUNIA/WORLD",BBS Buddhist Broadcasting (Korea)
+#EXTINF:-1 tvg-id="BBSTV.kr" status="online" group-title="9.WORLD",BBS Buddhist Broadcasting (Korea)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTNTV.kr" status="online" group-title="14. TV DUNIA/WORLD",BTN TV (Korea)
+#EXTINF:-1 tvg-id="BTNTV.kr" status="online" group-title="9.WORLD",BTN TV (Korea)
 http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="BusanMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Busan [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="BusanMBCTV.kr" status="online" group-title="9.WORLD",MBC Busan [Not 24/7] (Korea)
 http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTV.kr" status="timeout" group-title="14. TV DUNIA/WORLD",CGNTV (Korea)
+#EXTINF:-1 tvg-id="CGNTV.kr" status="timeout" group-title="9.WORLD",CGNTV (Korea)
 http://cgntv-glive.ofsdelivery.net/live/cgntv_kr01/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTV.kr" status="timeout" group-title="14. TV DUNIA/WORLD",CGNTV (Korea)
+#EXTINF:-1 tvg-id="CGNTV.kr" status="timeout" group-title="9.WORLD",CGNTV (Korea)
 http://cgntv-glive.ofsdelivery.net/live/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 tvg-id="ChuncheonMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Chuncheon [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="ChuncheonMBCTV.kr" status="online" group-title="9.WORLD",MBC Chuncheon [Not 24/7] (Korea)
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChungbukMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Chungbuk [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="ChungbukMBCTV.kr" status="online" group-title="9.WORLD",MBC Chungbuk [Not 24/7] (Korea)
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CJBTV.kr" status="online" group-title="14. TV DUNIA/WORLD",SBS CJB [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="CJBTV.kr" status="online" group-title="9.WORLD",SBS CJB [Not 24/7] (Korea)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CJOnStyle.kr" status="online" group-title="14. TV DUNIA/WORLD",CJ OnStyle (Korea)
+#EXTINF:-1 tvg-id="CJOnStyle.kr" status="online" group-title="9.WORLD",CJ OnStyle (Korea)
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-id="CJOnStylePlus.kr" status="online" group-title="14. TV DUNIA/WORLD",CJ OnStyle Plus (Korea)
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" status="online" group-title="9.WORLD",CJ OnStyle Plus (Korea)
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="CTSTV.kr" status="online" group-title="14. TV DUNIA/WORLD",CTS TV (Korea)
+#EXTINF:-1 tvg-id="CTSTV.kr" status="online" group-title="9.WORLD",CTS TV (Korea)
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1 tvg-id="DaeguMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Daegu [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="DaeguMBCTV.kr" status="online" group-title="9.WORLD",MBC Daegu [Not 24/7] (Korea)
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-id="DaejeonMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Daejeon [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="DaejeonMBCTV.kr" status="online" group-title="9.WORLD",MBC Daejeon [Not 24/7] (Korea)
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS1TV.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS 1 (Korea)
+#EXTINF:-1 tvg-id="EBS1TV.kr" status="online" group-title="9.WORLD",EBS 1 (Korea)
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS1TV.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS 1 (Korea)
+#EXTINF:-1 tvg-id="EBS1TV.kr" status="online" group-title="9.WORLD",EBS 1 (Korea)
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS2TV.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS 2 (Korea)
+#EXTINF:-1 tvg-id="EBS2TV.kr" status="online" group-title="9.WORLD",EBS 2 (Korea)
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS e (Korea)
+#EXTINF:-1 tvg-id="EBSEnglish.kr" status="online" group-title="9.WORLD",EBS e (Korea)
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS E (Korea)
+#EXTINF:-1 tvg-id="EBSEnglish.kr" status="online" group-title="9.WORLD",EBS E (Korea)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS kids (Korea)
+#EXTINF:-1 tvg-id="EBSKids.kr" status="online" group-title="9.WORLD",EBS kids (Korea)
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS+ 1 (Korea)
+#EXTINF:-1 tvg-id="EBSPlus1.kr" status="online" group-title="9.WORLD",EBS+ 1 (Korea)
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" status="online" group-title="14. TV DUNIA/WORLD",EBS+ 2 (Korea)
+#EXTINF:-1 tvg-id="EBSPlus2.kr" status="online" group-title="9.WORLD",EBS+ 2 (Korea)
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EdailyTV.kr" status="online" group-title="14. TV DUNIA/WORLD",Edaily TV [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="EdailyTV.kr" status="online" group-title="9.WORLD",Edaily TV [Not 24/7] (Korea)
 https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
-#EXTINF:-1 tvg-id="GCN.kr" status="online" group-title="14. TV DUNIA/WORLD",GCN24 Korean [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="GCN.kr" status="online" group-title="9.WORLD",GCN24 Korean [Not 24/7] (Korea)
 https://ythls.onrender.com/channel/UCqGxkgVnPc7arUR7MdCi99g.m3u8
-#EXTINF:-1 tvg-id="GCN.kr" status="online" group-title="14. TV DUNIA/WORLD",GCN24 Korean [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="GCN.kr" status="online" group-title="9.WORLD",GCN24 Korean [Not 24/7] (Korea)
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
-#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",Gongyoung Shopping (Korea)
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" status="online" group-title="9.WORLD",Gongyoung Shopping (Korea)
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GSMyShop.kr" status="online" group-title="14. TV DUNIA/WORLD",GS My Shop (Korea)
+#EXTINF:-1 tvg-id="GSMyShop.kr" status="online" group-title="9.WORLD",GS My Shop (Korea)
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GSShop.kr" status="online" group-title="14. TV DUNIA/WORLD",GS Shop (Korea)
+#EXTINF:-1 tvg-id="GSShop.kr" status="online" group-title="9.WORLD",GS Shop (Korea)
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" status="online" group-title="14. TV DUNIA/WORLD",GugakTV  (Korea)
+#EXTINF:-1 tvg-id="GugakTV.kr" status="online" group-title="9.WORLD",GugakTV  (Korea)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kr" status="online" group-title="14. TV DUNIA/WORLD",Gugbang TV [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="GugbangTV.kr" status="online" group-title="9.WORLD",Gugbang TV [Not 24/7] (Korea)
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GwangjuMBCTV.kr" status="timeout" group-title="14. TV DUNIA/WORLD",MBC Gwangju [Geo-blocked] [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="GwangjuMBCTV.kr" status="timeout" group-title="9.WORLD",MBC Gwangju [Geo-blocked] [Not 24/7] (Korea)
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HomeShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",Home & Shopping (Korea)
+#EXTINF:-1 tvg-id="HomeShopping.kr" status="online" group-title="9.WORLD",Home & Shopping (Korea)
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",Hyundai Home Shopping (Korea)
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" status="online" group-title="9.WORLD",Hyundai Home Shopping (Korea)
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" status="online" group-title="14. TV DUNIA/WORLD",Hyundai Home Shopping Plus (Korea)
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" status="online" group-title="9.WORLD",Hyundai Home Shopping Plus (Korea)
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JejuMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Jeju [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="JejuMBCTV.kr" status="online" group-title="9.WORLD",MBC Jeju [Not 24/7] (Korea)
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="JIBSTV.kr" status="online" group-title="14. TV DUNIA/WORLD",SBS JIBS [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="JIBSTV.kr" status="online" group-title="9.WORLD",SBS JIBS [Not 24/7] (Korea)
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="JTV.kr" status="online" group-title="14. TV DUNIA/WORLD",SBS JTV [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="JTV.kr" status="online" group-title="9.WORLD",SBS JTV [Not 24/7] (Korea)
 https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",SBS KBC [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="KBCTV.kr" status="online" group-title="9.WORLD",SBS KBC [Not 24/7] (Korea)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS1TV.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS1 (Korea)
+#EXTINF:-1 tvg-id="KBS1TV.kr" status="online" group-title="9.WORLD",KBS1 (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 tvg-id="KBS2TV.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS2 [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="KBS2TV.kr" status="online" group-title="9.WORLD",KBS2 [Not 24/7] (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1 tvg-id="KBSDrama.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS Drama (Korea)
+#EXTINF:-1 tvg-id="KBSDrama.kr" status="online" group-title="9.WORLD",KBS Drama (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1 tvg-id="KBSJoy.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS Joy (Korea)
+#EXTINF:-1 tvg-id="KBSJoy.kr" status="online" group-title="9.WORLD",KBS Joy (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1 tvg-id="KBSKids.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS Kids (Korea)
+#EXTINF:-1 tvg-id="KBSKids.kr" status="online" group-title="9.WORLD",KBS Kids (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1 tvg-id="KBSLife.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS Life (Korea)
+#EXTINF:-1 tvg-id="KBSLife.kr" status="online" group-title="9.WORLD",KBS Life (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS LiveCam DokDo (Korea)
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" status="online" group-title="9.WORLD",KBS LiveCam DokDo (Korea)
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSNewsD.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS News D (Korea)
+#EXTINF:-1 tvg-id="KBSNewsD.kr" status="online" group-title="9.WORLD",KBS News D (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1 tvg-id="KBSStory.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS Story (Korea)
+#EXTINF:-1 tvg-id="KBSStory.kr" status="online" group-title="9.WORLD",KBS Story (Korea)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1 tvg-id="KBSWorld.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS World (Korea)
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="online" group-title="9.WORLD",KBS World (Korea)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" status="online" group-title="14. TV DUNIA/WORLD",KBS World (Korea)
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="online" group-title="9.WORLD",KBS World (Korea)
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",KCTV CH05 [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="KCTV.kr" status="online" group-title="9.WORLD",KCTV CH05 [Not 24/7] (Korea)
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="KShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",KShopping (Korea)
+#EXTINF:-1 tvg-id="KShopping.kr" status="online" group-title="9.WORLD",KShopping (Korea)
 https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LotteHomeShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",Lotte Home Shopping (Korea)
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" status="online" group-title="9.WORLD",Lotte Home Shopping (Korea)
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1 tvg-id="MBCGyeongnamChangwonTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Gyeongnam [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="MBCGyeongnamChangwonTV.kr" status="online" group-title="9.WORLD",MBC Gyeongnam [Not 24/7] (Korea)
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="MBCTV.kr" status="online" group-title="9.WORLD",MBC [Not 24/7] (Korea)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="MokpoMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Mokpo [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="MokpoMBCTV.kr" status="online" group-title="9.WORLD",MBC Mokpo [Not 24/7] (Korea)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MTN.kr" status="online" group-title="14. TV DUNIA/WORLD",MTN (Korea)
+#EXTINF:-1 tvg-id="MTN.kr" status="online" group-title="9.WORLD",MTN (Korea)
 http://183.110.27.87/mtnlive/720/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" status="online" group-title="14. TV DUNIA/WORLD",National Assembly TV (Korea)
+#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" status="online" group-title="9.WORLD",National Assembly TV (Korea)
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
-#EXTINF:-1 tvg-id="NBS.kr" status="online" group-title="14. TV DUNIA/WORLD",NBS Korea Agricultural Broadcasting (Korea)
+#EXTINF:-1 tvg-id="NBS.kr" status="online" group-title="9.WORLD",NBS Korea Agricultural Broadcasting (Korea)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NHTV.kr" status="online" group-title="14. TV DUNIA/WORLD",NHTV (Korea)
+#EXTINF:-1 tvg-id="NHTV.kr" status="online" group-title="9.WORLD",NHTV (Korea)
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-id="NSHomeShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",NS Home Shopping (Korea)
+#EXTINF:-1 tvg-id="NSHomeShopping.kr" status="online" group-title="9.WORLD",NS Home Shopping (Korea)
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
-#EXTINF:-1 tvg-id="NSShopPlus.kr" status="online" group-title="14. TV DUNIA/WORLD",NS Shop Plus
+#EXTINF:-1 tvg-id="NSShopPlus.kr" status="online" group-title="9.WORLD",NS Shop Plus
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8 (Korea)
-#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",Shinsegae Shopping TV (Korea)
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" status="online" group-title="9.WORLD",Shinsegae Shopping TV (Korea)
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoppingNT.kr" status="online" group-title="14. TV DUNIA/WORLD",Shopping NT (Korea)
+#EXTINF:-1 tvg-id="ShoppingNT.kr" status="online" group-title="9.WORLD",Shopping NT (Korea)
 https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:-1 tvg-id="TBCTV.kr" status="timeout" group-title="14. TV DUNIA/WORLD",SBS TBC [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="TBCTV.kr" status="timeout" group-title="9.WORLD",SBS TBC [Not 24/7] (Korea)
 http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSTV.kr" status="online" group-title="14. TV DUNIA/WORLD",TBS TV Seoul (Korea)
+#EXTINF:-1 tvg-id="TBSTV.kr" status="online" group-title="9.WORLD",TBS TV Seoul (Korea)
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TJBTV.kr" status="online" group-title="14. TV DUNIA/WORLD",SBS TJB [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="TJBTV.kr" status="online" group-title="9.WORLD",SBS TJB [Not 24/7] (Korea)
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="TVChosun2.kr" status="online" group-title="14. TV DUNIA/WORLD",TV Chosun 2 (Korea)
+#EXTINF:-1 tvg-id="TVChosun2.kr" status="online" group-title="9.WORLD",TV Chosun 2 (Korea)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-#EXTINF:-1 tvg-id="TVChosun.kr" status="online" group-title="14. TV DUNIA/WORLD",TV Chosun (Korea)
+#EXTINF:-1 tvg-id="TVChosun.kr" status="online" group-title="9.WORLD",TV Chosun (Korea)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-#EXTINF:-1 tvg-id="TVWorkNet.kr" status="online" group-title="14. TV DUNIA/WORLD",TVWorkNet (Korea)
+#EXTINF:-1 tvg-id="TVWorkNet.kr" status="online" group-title="9.WORLD",TVWorkNet (Korea)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="UBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",SBS UBC [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="UBCTV.kr" status="online" group-title="9.WORLD",SBS UBC [Not 24/7] (Korea)
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 tvg-id="UlsanMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Ulsan [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="UlsanMBCTV.kr" status="online" group-title="9.WORLD",MBC Ulsan [Not 24/7] (Korea)
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
-#EXTINF:-1 tvg-id="WBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",WBC TV (Korea)
+#EXTINF:-1 tvg-id="WBCTV.kr" status="online" group-title="9.WORLD",WBC TV (Korea)
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1 tvg-id="WShopping.kr" status="online" group-title="14. TV DUNIA/WORLD",W Shopping (Korea)
+#EXTINF:-1 tvg-id="WShopping.kr" status="online" group-title="9.WORLD",W Shopping (Korea)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 tvg-id="YeosuMBCTV.kr" status="online" group-title="14. TV DUNIA/WORLD",MBC Yeosu [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="YeosuMBCTV.kr" status="online" group-title="9.WORLD",MBC Yeosu [Not 24/7] (Korea)
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" status="online" group-title="14. TV DUNIA/WORLD",YTN (Korea)
+#EXTINF:-1 tvg-id="YTN.kr" status="online" group-title="9.WORLD",YTN (Korea)
 https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",All The K-POP (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",All The K-POP (Korea)
 https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",Arirang Radio (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",Arirang Radio (Korea)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",GoodTV (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",GoodTV (Korea)
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",JCN TV (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",JCN TV (Korea)
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",Korea TV (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",Korea TV (Korea)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",Korean Song Channel (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",Korean Song Channel (Korea)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",SBS KNN [Not 24/7] (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",SBS KNN [Not 24/7] (Korea)
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",tvN Asia (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",tvN Asia (Korea)
 http://210.210.155.37/dr9445/h/h20/index.m3u8
-#EXTINF:-1 tvg-id="" status="online" group-title="14. TV DUNIA/WORLD",tvN Movies (Korea)
+#EXTINF:-1 tvg-id="" status="online" group-title="9.WORLD",tvN Movies (Korea)
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://www.strawbearentertainment.com/media/1254/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",Hunan TV
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://www.strawbearentertainment.com/media/1254/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",Hunan TV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/320px-Jiangsu_Broadcasting_Corporation.png",Jiangsu TV
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/320px-Jiangsu_Broadcasting_Corporation.png",Jiangsu TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png",Dragon TV
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png",Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="14. TV DUNIA/WORLD",Dubai TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" group-title="9.WORLD",Dubai TV
 http://210.210.155.37/uq2663/h/h152/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="14. TV DUNIA/WORLD",ITV 1 (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="9.WORLD",ITV 1 (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium350/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="14. TV DUNIA/WORLD",ITV 2 (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="9.WORLD",ITV 2 (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium351/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="14. TV DUNIA/WORLD",ITV 3 (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="9.WORLD",ITV 3 (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium352/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="14. TV DUNIA/WORLD",ITV 4 (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="9.WORLD",ITV 4 (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium353/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/New_Channel_4_News_logo.svg" group-title="14. TV DUNIA/WORLD",Channel 4 (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/New_Channel_4_News_logo.svg" group-title="9.WORLD",Channel 4 (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium354/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-VqLmDmopf6nJqND0zzRHU0D4LkmwHCw-g&usqp=CAU" group-title="14. TV DUNIA/WORLD",Channel 5 (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-VqLmDmopf6nJqND0zzRHU0D4LkmwHCw-g&usqp=CAU" group-title="9.WORLD",Channel 5 (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium355/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="14. TV DUNIA/WORLD",BBC One (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="9.WORLD",BBC One (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium356/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="14. TV DUNIA/WORLD",BBC Two (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="9.WORLD",BBC Two (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium357/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="14. TV DUNIA/WORLD",BBC Three (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="9.WORLD",BBC Three (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium358/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="14. TV DUNIA/WORLD",BBC Four (UK) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="9.WORLD",BBC Four (UK) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium359/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="14. TV DUNIA/WORLD",BBC America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuYui45-muMNAuc0yG2jXU0Zv3wzz5ld6tA&usqp=CAU" group-title="9.WORLD",BBC America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium305/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.peer5.net/static/channels/small/150/logos/onehd.png" group-title="14. TV DUNIA/WORLD",ONE 1 HD Israel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.peer5.net/static/channels/small/150/logos/onehd.png" group-title="9.WORLD",ONE 1 HD Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium541/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-one-sport-2-1589.png" group-title="14. TV DUNIA/WORLD",ONE 2 HD Israel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-one-sport-2-1589.png" group-title="9.WORLD",ONE 2 HD Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium542/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8jfx4xE833GzOSYQVYdegBQFkOnosK8jdg&usqp=CAU" group-title="14. TV DUNIA/WORLD",Yes Movies Action Israel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8jfx4xE833GzOSYQVYdegBQFkOnosK8jdg&usqp=CAU" group-title="9.WORLD",Yes Movies Action Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium543/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhUFaEDvOAO47qiCkYWrdXpRzIGyImPsD9A&usqp=CAU" group-title="14. TV DUNIA/WORLD",Yes Movies Kids Israel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhUFaEDvOAO47qiCkYWrdXpRzIGyImPsD9A&usqp=CAU" group-title="9.WORLD",Yes Movies Kids Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium544/index.m3u8
@@ -3043,121 +3042,121 @@ https://webudit.salamus1.lol/lb/premium544/index.m3u8
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://webudit.salamus1.lol/lb/premium545/index.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",Court TV (UK)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",Court TV (UK)
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel%28courttv%29/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSJusticeUK.uk" tvg-name="CBS Justice" tvg-logo="https://ia800801.us.archive.org/3/items/CbsAction/cbs%20action.png" group-title="14. TV DUNIA/WORLD", CBS Action (UK)
+#EXTINF:-1 tvg-id="CBSJusticeUK.uk" tvg-name="CBS Justice" tvg-logo="https://ia800801.us.archive.org/3/items/CbsAction/cbs%20action.png" group-title="9.WORLD", CBS Action (UK)
 #http://62.131.92.221:60230/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-id="I68.1518.tvguide.co.uk" tvg-name="CBS Drama" tvg-logo="https://ia800803.us.archive.org/33/items/CbsDrama_201708/cbs%20drama.png" group-title="14. TV DUNIA/WORLD", CBS Drama
+#EXTINF:-1 tvg-id="I68.1518.tvguide.co.uk" tvg-name="CBS Drama" tvg-logo="https://ia800803.us.archive.org/33/items/CbsDrama_201708/cbs%20drama.png" group-title="9.WORLD", CBS Drama
 #http://62.131.92.221:60230/play/a04u/index.m3u8
 
-#EXTINF:-1 tvg-id="I146.1512.tvguide.co.uk" tvg-name="CBS Reality" tvg-logo="https://ia800806.us.archive.org/12/items/CbsReality/cbs%20reality.png" group-title="14. TV DUNIA/WORLD", CBS Reality (UK)
+#EXTINF:-1 tvg-id="I146.1512.tvguide.co.uk" tvg-name="CBS Reality" tvg-logo="https://ia800806.us.archive.org/12/items/CbsReality/cbs%20reality.png" group-title="9.WORLD", CBS Reality (UK)
 #http://62.131.92.221:60230/play/a051/index.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZQ-ADSach7XZjV3s2ABmkqSgXYcGJneQKQ&usqp=CAU",SBS Viceland (Australia)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIZQ-ADSach7XZjV3s2ABmkqSgXYcGJneQKQ&usqp=CAU",SBS Viceland (Australia)
 https://epg.pw/stream/378b3df867b10bb33a08b5bb42935104c2bcdc650d0e78c67b2ece4f9fa3933a.ctv
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/800px-Mediacorp_Channel_5_2023.svg.png", Channel 5 (Singapore)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/800px-Mediacorp_Channel_5_2023.svg.png", Channel 5 (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/1200px-Mediacorp_Channel_8_2023.svg.png", Channel 8 (Singapore)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/1200px-Mediacorp_Channel_8_2023.svg.png", Channel 8 (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714418%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=1000&Height=260",meWATCHLIVE1 (Singapore)
+EXTINF:-1 group-title="9.WORLD" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714418%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=1000&Height=260",meWATCHLIVE1 (Singapore)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714423%27&EntityType=%27Item%27&EntityId=%2797078%27&Width=1000&Height=260",meWATCHLIVE2 (Singapore)
+EXTINF:-1 group-title="9.WORLD" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714423%27&EntityType=%27Item%27&EntityId=%2797078%27&Width=1000&Height=260",meWATCHLIVE2 (Singapore)
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20hq2pSwwUXDGPzEm6RC46FAN8nUlwKoQzg&usqp=CAU",SURIA (Singapore)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20hq2pSwwUXDGPzEm6RC46FAN8nUlwKoQzg&usqp=CAU",SURIA
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/200?cb=20230130143458",CHANNEL U (Singapore)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/200?cb=20230130143458",CHANNEL U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWI1WVXPCZCITndU2WYaYqn5Bd-b-yCExNAA&usqp=CAU",CNA (Singapore)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWI1WVXPCZCITndU2WYaYqn5Bd-b-yCExNAA&usqp=CAU",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJjP-4PD5A97dWIqUPIkelfOFH1pee-nZeA&usqp=CAU",VASANTHAM (Singapore)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJjP-4PD5A97dWIqUPIkelfOFH1pee-nZeA&usqp=CAU",VASANTHAM
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera (Brunei) 
+#EXTINF:-1 group-title="9.WORLD" tvg-id="Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB 
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka (Brunei)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live (Brunei) 
+#EXTINF:-1 group-title="9.WORLD" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="wowowprime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",Wowow Prime (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="wowowprime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",Wowow Prime
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="wowowlive" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",Wowow Live (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="wowowlive" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",Wowow Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="wowowcinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",Wowow Cinema (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="wowowcinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",Wowow Cinema
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="14. TV DUNIA/WORLD",Wowow Plus (Japan)
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" group-title="9.WORLD",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528", Nippon TV (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/300?cb=20210404121528", Nippon TV (Japan)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png", Fuji TV (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png", Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/rls8NVc.png", TV Asahi (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/rls8NVc.png", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="JOTXDTV.jp" tvg-logo="https://i.imgur.com/gHdoEc3.png", TV Tokyo (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="JOTXDTV.jp" tvg-logo="https://i.imgur.com/gHdoEc3.png", TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="MBS.jp" tvg-name="MBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="MBS.jp" tvg-name="MBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1200px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/220px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/220px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="14. TV DUNIA/WORLD" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1", Animax (Japan)
+#EXTINF:-1 group-title="9.WORLD" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1", Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="14. TV DUNIA/WORLD" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTV (HongKong)
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png" group-title="9.WORLD" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="14. TV DUNIA/WORLD",ALTV 4  (Thailand) 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="9.WORLD",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="14. TV DUNIA/WORLD",ALTV 4  (Thailand) 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/altv-4-th.png" group-title="9.WORLD",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616532058718892032/SmjrJwro_400x400.jpg" group-title="14. TV DUNIA/WORLD",ATTV (Movies)  (Thailand) 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616532058718892032/SmjrJwro_400x400.jpg" group-title="9.WORLD",ATTV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bb_tv_channel_7_th.png" group-title="14. TV DUNIA/WORLD",BBTV CHANNEL 7 HD  (Thailand) 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bb_tv_channel_7_th.png" group-title="9.WORLD",BBTV CHANNEL 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="14. TV DUNIA/WORLD",AMARIN 34 HD  (Thailand) 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="9.WORLD",AMARIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/AND-logo-B08B08AEAC-seeklogo.com.gif" group-title="14. TV DUNIA/WORLD",AND TV  (Thailand) 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/AND-logo-B08B08AEAC-seeklogo.com.gif" group-title="9.WORLD",AND TV
 https://live.thaitvstream.com/play/andtv/index.m3u8
