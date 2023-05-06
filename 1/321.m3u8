@@ -511,6 +511,7 @@ https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CXOn", Spotv 2
+#EXTHTTP:{"dt-custom-data": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhYmlsaXRpZXMiOltdLCJ1aWQiOjc1MTAxNzE4LCJyYW5kb20iOiI1NGExMmE1NzU0MzA1OTAyIiwiZXhwIjoxNjg1OTgzNjYxLCJwbCI6IiIsImRldmljZV9pZCI6IiJ9.5YOOQhH3i3jnX9DhDG0MLzcDU8IfhgmJoXk8sPc8gZ4="}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
