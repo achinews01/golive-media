@@ -965,10 +965,10 @@ https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/LC41/index.m3u8
 
-#EXTINF:-1 tvg-id="WuTangCollection" group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MiPS2RRFzgoYG969obbZMJeaZq8uAI1E3A&usqp=CAU",The Wutang Collection 24/7 (A)
+#EXTINF:-1 tvg-id="WuTangCollection" group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MiPS2RRFzgoYG969obbZMJeaZq8uAI1E3A&usqp=CAU",The Wutang 1
 https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/25703488/content/m.m3u8?ads.channel_name=Kung+Fu+Movies&ads.content_genre=Action%2CClassics%2CMovies&ads.content_title=Kung+Fu+Kids+Break+Away&ads.provider_id=Global+Media+Digital+TV+LLC&ads.rating=0&ads.vast_id=SGL104&ads.h=733&ads.w=384&ads.did=13dc661f&ads.channel_name=Kung%20Fu%20Movies&ads.content_genre=&ads.rating=TV14&ads.content_series=undefined&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.27
 
-#EXTINF:-1 tvg-id="Wu-TangCollection" group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MiPS2RRFzgoYG969obbZMJeaZq8uAI1E3A&usqp=CAU", The Wutang Collection 24/7 (B)
+#EXTINF:-1 tvg-id="Wu-TangCollection" group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MiPS2RRFzgoYG969obbZMJeaZq8uAI1E3A&usqp=CAU", The Wutang 2
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xAGf9_FRnjWFHeK8x9iP
 
 
