@@ -1878,55 +1878,34 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs1-multi.m3u8|User-agent=ㅤyacineee55000
+https://webudit.salamus1.lol/lb/premium91/index.m3u8|referer=https://widevine.licenses4.me/
 http://103.167.167.5:8111/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" , beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs2-multi.m3u8|User-agent=ㅤyacineee55000
-#http://103.167.167.5:8111/play/a02n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="8.SPORTS", beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium63/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium92/index.m3u8|referer=https://widevine.licenses4.me/
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs3-multi.m3u8|User-agent=ㅤyacineee55000
+https://webudit.salamus1.lol/lb/premium93/index.m3u8|referer=https://widevine.licenses4.me/
 http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
-#http://103.167.167.5:8111/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports4.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" , beIN Sports 4
+#EXTINF:-1 tvg-id="beINSports4.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs4-multi.m3u8|User-agent=ㅤyacineee55000
-http://62.182.82.104/BEIN_SPORT_4_HD/index.m3u8?token=test&v=1673204766768
+https://webudit.salamus1.lol/lb/premium94/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="8.SPORTS", beIN Sports 4
+#EXTINF:-1 tvg-id="beINSports5.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU",beIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium94/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="beINSports5.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs5-multi.m3u8|User-agent=ㅤyacineee55000
-http://62.182.82.104/BEIN_SPORT_5_HD/index.m3u8?token=test&v=1673204766768
+https://webudit.salamus1.lol/lb/premium95/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports6.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs6-multi.m3u8|User-agent=ㅤyacineee55000
-http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
+https://webudit.salamus1.lol/lb/premium96/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="8.SPORTS", beIN Sports 6
+#EXTINF:-1 tvg-id="beINSports7.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium96/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="beINSports7.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" , beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://lb.buy-global.store/live/lb555/bs7-multi.m3u8|User-agent=ㅤyacineee55000
-http://62.182.82.104/BEIN_SPORT_7_HD/index.m3u8?token=test&v=1673204766768
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" group-title="8.SPORTS", beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium97/index.m3u8?|referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium97/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="8.SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2135,6 +2114,26 @@ https://lin-gd-001-cf.slivcdn.com/out/v1/686ed751131a40d89bc86bfd7c1ae321/master
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
+
+#EXTINF:- 1, tvg-id="SonySportsTen1" tvg-name"SonySportsTen1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS",Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:- 1, tvg-id="SonySportsTen2" tvg-name"SonySportsTen2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS,Sony Sports Ten 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:- 1, tvg-id="SonySportsTen3" tvg-name"SonySportsTen3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS",Sony Sports Ten 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:- 1, tvg-id="SonySportsTen4" tvg-name"SonySportsTen4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS",Sony Sports Ten 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:- 1, tvg-id="SonySportsTen5" tvg-name"SonySportsTen5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS",Sony Sports Ten 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dJqtHkV0KDQ7UmsytFw5PuVSJjzGkKXtAg&usqp=CAU" group-title="8.SPORTS",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
