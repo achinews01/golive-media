@@ -604,11 +604,6 @@ http://173.225.246.25:8889/udp/239.203.20.1:4001
 
 ======2.MOVIES======
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="2.MOVIES",SONY PIX
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
-
 #EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1CiVL" group-title="2.MOVIES",MCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/uq2663/h/h192/index.m3u8
@@ -954,11 +949,28 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa
 #EXTINF:-1  tvg-logo="https://s.id/1Eg7j" group-title="2.MOVIES",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="2.MOVIES",Star Movies HD
-http://box.slweb.tv:8880/desiboyz/gT2GnJoPMAEa/4584
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="2.MOVIES",SONY PIX
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="2.MOVIES",Star Movies Selects HD
 http://starshare.live:8080/live/Arish/Arish/218.ts
+
+#EXTINF:-1 tvg-id="boxhits" group-title="2.MOVIES" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+
+#EXTINF:-1 tvg-id="LotusMacau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="2.MOVIES",Lotus Macau 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202205171929/LC41/index.m3u8
+
+#EXTINF:-1 tvg-id="WuTangCollection" group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MiPS2RRFzgoYG969obbZMJeaZq8uAI1E3A&usqp=CAU",The Wutang Collection 24/7 (A)
+https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/25703488/content/m.m3u8?ads.channel_name=Kung+Fu+Movies&ads.content_genre=Action%2CClassics%2CMovies&ads.content_title=Kung+Fu+Kids+Break+Away&ads.provider_id=Global+Media+Digital+TV+LLC&ads.rating=0&ads.vast_id=SGL104&ads.h=733&ads.w=384&ads.did=13dc661f&ads.channel_name=Kung%20Fu%20Movies&ads.content_genre=&ads.rating=TV14&ads.content_series=undefined&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.27
+
+#EXTINF:-1 tvg-id="Wu-TangCollection" group-title="2.MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MiPS2RRFzgoYG969obbZMJeaZq8uAI1E3A&usqp=CAU", The Wutang Collection 24/7 (B)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xAGf9_FRnjWFHeK8x9iP
+
 
 ======3.KIDS======
 
