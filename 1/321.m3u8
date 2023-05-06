@@ -2119,7 +2119,7 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manife
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
-#EXTINF:- 1, tvg-id="SonySportsTen2" tvg-name"SonySportsTen2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS,Sony Sports Ten 2 HD
+#EXTINF:- 1, tvg-id="SonySportsTen2" tvg-name"SonySportsTen2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeT-Sk5gvnqvjDPqSKwON7vOUYKXTzIoh1Q&usqp=CAU" group-title="8.SPORTS",Sony Sports Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
