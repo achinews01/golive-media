@@ -2766,6 +2766,127 @@ https://linear-506.frequency.stream/dist/vix/506/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1EDjL", group-title="8.SPORTS",V!X La Liga 4
 https://linear-507.frequency.stream/dist/vix/507/hls/master/playlist.m3u8
 
+#EXTINF:1 tvg-id="pptv.hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzs1KfV1r0_K4uIGZXjDUXPP-rXEiT7BgQw&usqp=CAU" group-title="8.SPORTS", PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="polsat.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Polsat_Sport_Logo.png" group-title="8.SPORTS",Polsat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="8.SPORTS",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="8.SPORTS",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="8.SPORTS",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="8.SPORTS",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="8.SPORTS",Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="8.SPORTS",Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="8.SPORTS" ,Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="8.SPORTS" ,Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="8.SPORTS" ,Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="8.SPORTS",Astro SuperSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="8.SPORTS",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="8.SPORTS",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="8.SPORTS",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="8.SPORTS",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium43/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="8.SPORTS",ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 1 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium140/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 2 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium141/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 3 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium142/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 4 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium143/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 5 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium144/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 5 PLUS Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium145/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 5 Live Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium146/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 5 Star Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium147/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" tvg-logo="https://dl.dropboxusercontent.com/s/o2qd9pkb4z35po6/sportisrael.png" group-title="8.SPORTS",Sport 5 Gold Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+https://webudit.salamus1.lol/lb/premium148/index.m3u8
+
+
 ============TV DUNIA============
 
 #EXTINF:-1 tvg-id="AndongMBCTV.kr" status="online" group-title="9.WORLD",MBC Andong [Not 24/7] (Korea) 
