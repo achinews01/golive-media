@@ -507,7 +507,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.id/1Es7g" group-title="1.LOKAL",SPOTV ON
-https://cdn-hk-33.cloudrsst.com/live/spotv_on_540/playlist.m3u8
+https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
 
 #EXTINF:-1 tvg-logo="https://s.id/1CXVM" group-title="1.LOKAL",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
