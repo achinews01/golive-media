@@ -547,8 +547,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-id="FoxMovies.Romania" group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoD2Lt-fjlFnzsOCeyLvp-01dw02qvk2rVQ&usqp=CAU",Fox Movies Romania 
 https://epg.pw/stream/81ce5436bfe76b3619040287b569c0b0d75f206c43fb19293e8c4d9d61fb55ec.ctv
 
-#EXTINF:-1 tvg-id="FoxActionMovies" group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkAOBABxY8Jy0t0XOwKYG9jWWnXWoucuvQg&usqp=CAU",Fox Action Movies 
-https://epg.pw/stream/501bb85ee569c707e964d6d7e2316d6a68f6e7cbabcc233515c0555a3cff106d.ctv
+#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU", Barca TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"x1-gd_MYXkiZpcCEWP_41w","k":"vYgX5wDnI70DZv2CtdAqRQ"},{"kty":"oct","kid":"U_REmizjXByRostr1Gfipg","k":"_FIgdiAjiAaMz-GpYfOr0Q"},{"kty":"oct","kid":"VR26yQDaU_OyswtYnl-5mQ","k":"HG3xpqXKiqoWoA9Ij6ADIg"}]}
+https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="AMC" group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtc-vsGz6TLgZG34Qh_fyuzTnibcC6MPLow&usqp=CAU",AMC
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_1/chunklist.m3u8
