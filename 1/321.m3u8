@@ -96,7 +96,7 @@ https://astrompd.thescript2.workers.dev/dash-wv/linear/211/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkeyastro.thescript2.workers.dev/index.php?id=1000
 https://astrompd2.thescript2.workers.dev/dash-wv/linear/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" group-title="12. MALAYSIA", Astro Warna
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ExbL2Tz9h5n51eOWlmUbABJOUCoqAAbz8A&usqp=CAU" group-title="0.MALAYSIA", Astro Warna
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
 
 #EXTINF:-1 tvg-id="oasis.id" tvg-name="oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="0.MALAYSIA",ASTRO OASIS
