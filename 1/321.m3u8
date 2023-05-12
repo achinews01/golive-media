@@ -613,6 +613,17 @@ http://173.225.246.25:8889/udp/239.203.20.1:4001
 #EXTINF:-1 tvg-id="" tvg-logo="https://s.id/1Eg2k" group-title="1.LOKAL",Dunia Lain
 #https://delivery.ksa.my.id/stream/dunialain/playlist.m3u8?token=ym1wtrp&v=20200807
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/drm/drmcubmu.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="1.LOKAL" tvg-id="HBO.id" tvg-name="HBO", HBO
+https://cdn.thomasandi.my.id/chpriv/cubmu.mpd?id=4028c6856b6088c3016b87d64b970b53&andi=3
+
+
+
+
 ======2.MOVIES======
 
 #EXTINF:-1 tvg-ID="mcn" tvg-logo="https://s.id/1CiVL" group-title="2.MOVIES",MCN
