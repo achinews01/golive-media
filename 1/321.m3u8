@@ -272,6 +272,11 @@ http://210.210.155.37/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://s.id/1CgYZ" group-title="1.LOKAL" tvg-id="SCTV.id" tvg-name="SCTV", Sctv 1
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s.id/1CgYZ" group-title="1.LOKAL" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgYZ",Sctv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
@@ -491,14 +496,6 @@ http://rr.dens.tv/h/h91/index2.m3u8
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://s.id/1Cih1" group-title="1.LOKAL",Citra Dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1Dr5I", Citra Drama
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.useetv.com
-#EXTVLCOPT:http-host=cdn09jtedge.indihometv.com
-#http://yurend.com/play.mpd?id=cdrama&key=usee&type=dash|referer=https://www.useetv.com
-
 #EXTINF:-1 tvg-ID="tic" tvg-logo="https://s.id/1CsTC" group-title="1.LOKAL",TIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://5effe161e0fba.streamlock.net/live/ngrp:TIC.stream_all/.m3u8
@@ -553,13 +550,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-id="FoxMovies.Romania" group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoD2Lt-fjlFnzsOCeyLvp-01dw02qvk2rVQ&usqp=CAU",Fox Movies Romania 
 https://epg.pw/stream/81ce5436bfe76b3619040287b569c0b0d75f206c43fb19293e8c4d9d61fb55ec.ctv
 
-#EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU", Barca TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"x1-gd_MYXkiZpcCEWP_41w","k":"vYgX5wDnI70DZv2CtdAqRQ"},{"kty":"oct","kid":"U_REmizjXByRostr1Gfipg","k":"_FIgdiAjiAaMz-GpYfOr0Q"},{"kty":"oct","kid":"VR26yQDaU_OyswtYnl-5mQ","k":"HG3xpqXKiqoWoA9Ij6ADIg"}]}
-https://tvup-live.secure.footprint.net/barcatv/barcatv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #EXTINF:-1 tvg-id="AMC" group-title="1.LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtc-vsGz6TLgZG34Qh_fyuzTnibcC6MPLow&usqp=CAU",AMC
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/profile_1/chunklist.m3u8
 
@@ -612,15 +602,6 @@ http://173.225.246.25:8889/udp/239.203.20.1:4001
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s.id/1Eg2k" group-title="1.LOKAL",Dunia Lain
 #https://delivery.ksa.my.id/stream/dunialain/playlist.m3u8?token=ym1wtrp&v=20200807
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJsZSI6MTY4NDE1MzY1MjAwMCwicGQiOjI1OTIwMDAwMCwidGkiOiJlMzAwNjQwNzUwN2E3OGY5OTk1YzMwYjc4NjU2NmY3ZSJ9="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.thescript2.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="1.LOKAL" tvg-id="HBO.id" tvg-name="HBO", HBO
-https://cdnjkt2.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
 
 
 ======2.MOVIES======
