@@ -260,6 +260,11 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 =====1.LOKAL=====
 
+#EXTINF:-1 tvg-logo="https://s.id/1Ch0o" group-title="1.LOKAL" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://s.id/1Ch0o" group-title="1.LOKAL",Indosiar 1
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
@@ -280,6 +285,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 #EXTINF:-1 group-title="1.LOKAL" tvg-logo="https://s.id/1CgYZ",Sctv 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.id/1Ch1s" group-title="1.LOKAL" tvg-id="Mnctv.id" tvg-name="Mnctv", Mnctv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://s.id/1Ch1s" group-title="1.LOKAL", Mnctv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
