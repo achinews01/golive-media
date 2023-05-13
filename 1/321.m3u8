@@ -23,7 +23,7 @@ https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-#EXTINF:-1 tvg-id="0.MALAYSIA" group-title="Malaysia" tvg-logo="https://s.id/1CilO", DidikTV
+#EXTINF:-1 tvg-id="ntv7" group-title="0.MALAYSIA" tvg-logo="https://s.id/1CilO", DidikTV
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://s.id/1CinQ",8TV
@@ -39,7 +39,7 @@ https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-id="TV9" group-title="0.MALAYSIA" tvg-logo="https://s.id/1CinQ",TV9
+#EXTINF:-1 tvg-id="TV9" group-title="0.MALAYSIA" tvg-logo="https://s.id/1CimD",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #EXTINF:-1 group-title="0.MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://s.id/1CikH",OKEY
