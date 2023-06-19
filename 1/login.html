@@ -1,0 +1,114 @@
+ <style>
+
+
+/* -----------------------------------------------
+login page Style
+Name  : Misbahul Fahmi Fahrezi
+Youtube : Go For Edu
+Date    : 30 Oktober 2020
+----------------------------------------------- */
+
+ .inputtext {
+  width: 100%;
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 2px solid #000;
+  border-radius: 20px;
+  box-sizing: border-box;
+
+}
+
+.tombol {
+  width: 100%;
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: #B31312;
+  border: 2px solid #000;
+  border-radius: 20px;
+  box-sizing: border-box;
+  text-transform: uppercase;
+}
+
+div {
+  font-family: arial;
+  font-weight: bold;
+  
+}
+
+#timer{ 
+color: #B31312;
+}
+
+ body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+</style>
+
+<body>
+
+<center>
+
+<center>
+
+<div class="div1">
+
+<form name="myform" method="post">
+
+  <input type="text" name="uname" class="inputtext" autocomplete="off" placeholder="Masukkan Username">
+  <br>
+  <input type="password" name="pass" class="inputtext" autocomplete="off" placeholder="Masukkan Password">
+  <br>
+  <div id="timer"></div>
+  <br>
+  <input type="button" class="tombol" name="log" id="logbutton" value="LOGIN" onclick="myfunction()">
+  <br><br>
+
+
+</form>
+
+
+</div>
+
+</center>
+
+</center>
+
+</body>
+
+<script type="text/javascript">
+  
+  function myfunction ()
+  {
+
+    var un = document.forms["myform"]["uname"].value;
+    var pw = document.forms["myform"]["pass"].value;
+    if (un=="Mencret" && pw=="@#$_&-+")
+  {
+    window.open('https://golive-media-stream.blogspot.com', '_blank');
+  }
+
+/* ---------Copy code user dibawah ini---------- */
+
+
+
+
+
+
+
+
+/* ---------Copy code user diatas ini-------- */
+
+
+    else
+  {
+    document.getElementById("timer").innerHTML = "Maaf Username & Password Salah...!!!!";
+  }
+  }
+  
+</script>
+
